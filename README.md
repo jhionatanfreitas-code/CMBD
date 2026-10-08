@@ -1,4 +1,5 @@
 **Contextualização**
+
 Uma empresa deseja organizar melhor seus dados de vendas. Atualmente, as informações estão dispersas em 
 planilhas e não há um sistema centralizado para consultas rápidas. A direção decidiu criar um banco  de 
 dados relacional para armazenar dados de clientes, produtos e pedidos, permitindo análises mais efici -
