@@ -19,6 +19,7 @@ Implementar um banco de dados em SQL que atenda às necessidades da empresa. o d
 - Listar os pedidos que ultrapassam determinado valor.
 
 
+
   **Resultados Esperados**
   
 - Um banco de dados funcional criado em SQL que poderá ser utilizado em aplicações reais;
