@@ -5,6 +5,7 @@ planilhas e não há um sistema centralizado para consultas rápidas. A direçã
 dados relacional para armazenar dados de clientes, produtos e pedidos, permitindo análises mais efici -
 entes e relatórios confiáveis.
 
+
 **Desafio**
 
 Implementar um banco de dados em SQL que atenda às necessidades da empresa. o desafio envolve:
@@ -16,6 +17,7 @@ Implementar um banco de dados em SQL que atenda às necessidades da empresa. o d
 - Qual produto mais vendido no último mês?
 - Qual o valor total de vendas por cliente?
 - Listar os pedidos que ultrapassam determinado valor.
+
 
   **Resultados Esperados**
   
