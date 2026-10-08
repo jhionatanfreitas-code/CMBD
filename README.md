@@ -19,8 +19,8 @@ Implementar um banco de dados em SQL que atenda às necessidades da empresa. o d
 
   **Resultados Esperados**
   
-  - Um banco de dados funcional criado em SQL que poderá ser utilizado em aplicações reais;
-  - Compreender como funcionam as relações entre as tabelas de um banco de dados;
-  - Criar Scripts de inserção, alterações e exclusão de dados;
-  - Um conjunto de consultas SQL que respondam às perguntas propostas;
-  - Empregar técnicas de normalização de dados. 
+- Um banco de dados funcional criado em SQL que poderá ser utilizado em aplicações reais;
+- Compreender como funcionam as relações entre as tabelas de um banco de dados;
+- Criar Scripts de inserção, alterações e exclusão de dados;
+- Um conjunto de consultas SQL que respondam às perguntas propostas;
+- Empregar técnicas de normalização de dados. 
