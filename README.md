@@ -5,6 +5,7 @@ dados relacional para armazenar dados de clientes, produtos e pedidos, permitind
 entes e relatórios confiáveis.
 
 **Desafio**
+
 Implementar um banco de dados em SQL que atenda às necessidades da empresa. o desafio envolve:
 - Modelagem das tabelas necessárias (Clientes, Produtos, Pedidos).
 - Criação das tabelas com chaves primárias e estrangeiras.
